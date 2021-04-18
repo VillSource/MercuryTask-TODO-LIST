@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/menuGroupList"
+        android:checkableBehavior="single">
+        <item
+            android:title="Grop of todo list">
+            <menu>
+                <item
+                    android:id="@+id/DefaultMenu"
+                    android:icon="@drawable/ic_baseline_checklist_24"
+                    android:title="Default"/>
+                <item
+                    android:id="@+id/SchoolMenu"
+                    android:icon="@drawable/ic_baseline_school_24"
+                    android:title="School"/>
+                <item
+                    android:id="@+id/WorkMenu"
+                    android:icon="@drawable/ic_baseline_home_work_24"
+                    android:title="Work" />
+            </menu>
+        </item>
+    </group>
+    <group>
+        <item android:title="Setting">
+            <menu>
+                <item
+                    android:id="@+id/btnProfileSetting"
+                    android:icon="@drawable/ic_baseline_person_24"
+                    android:title="Your Profile"/>
+                <item
+                    android:id="@+id/btnlogOutMenu"
+                    android:icon="@drawable/ic_baseline_logout_24"
+                    android:title="Log Out" />
+            </menu>
+        </item>
+    </group>
+</menu>
