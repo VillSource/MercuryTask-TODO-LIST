@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "558565298130",
+    "firebase_url": "https://learntoolfb-default-rtdb.firebaseio.com",
+    "project_id": "learntoolfb",
+    "storage_bucket": "learntoolfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558565298130:android:2a43c10ffe178bedc1020b",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558565298130-k4dbf6ut2fqcad4djiem9d77d8me7af0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACOI9CSYpWPwrfrujN_b6GWAfrzauCHjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558565298130-k4dbf6ut2fqcad4djiem9d77d8me7af0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558565298130:android:c84f1b4a7dd6dd05c1020b",
+        "android_client_info": {
+          "package_name": "com.example.fundamentalslearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558565298130-k4dbf6ut2fqcad4djiem9d77d8me7af0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACOI9CSYpWPwrfrujN_b6GWAfrzauCHjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558565298130-k4dbf6ut2fqcad4djiem9d77d8me7af0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558565298130:android:0d7638cf1d398aa0c1020b",
+        "android_client_info": {
+          "package_name": "com.example.villsource"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558565298130-k4dbf6ut2fqcad4djiem9d77d8me7af0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACOI9CSYpWPwrfrujN_b6GWAfrzauCHjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558565298130-k4dbf6ut2fqcad4djiem9d77d8me7af0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
